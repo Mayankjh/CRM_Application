@@ -1,0 +1,11 @@
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\bin\Debug\netcoreapp3.1\CRM_PROJECT.exe
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\bin\Debug\netcoreapp3.1\CRM_PROJECT.deps.json
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\bin\Debug\netcoreapp3.1\CRM_PROJECT.runtimeconfig.json
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\bin\Debug\netcoreapp3.1\CRM_PROJECT.runtimeconfig.dev.json
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\bin\Debug\netcoreapp3.1\CRM_PROJECT.dll
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\bin\Debug\netcoreapp3.1\CRM_PROJECT.pdb
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\obj\Debug\netcoreapp3.1\CRM_PROJECT.csprojAssemblyReference.cache
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\obj\Debug\netcoreapp3.1\CRM_PROJECT.AssemblyInfoInputs.cache
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\obj\Debug\netcoreapp3.1\CRM_PROJECT.AssemblyInfo.cs
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\obj\Debug\netcoreapp3.1\CRM_PROJECT.dll
+C:\Users\mayank.jha\source\repos\CRM_PROJECT\obj\Debug\netcoreapp3.1\CRM_PROJECT.pdb
